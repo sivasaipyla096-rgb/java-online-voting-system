@@ -1,0 +1,17 @@
+# IntelliJ / Eclipse
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Tomcat / SmartTomcat
+.smarttomcat/
+
+# Build output
+build/
+classes/
+
+# OS files
+.DS_Store
+
