@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../javax.websocket-api-1.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.4.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.4.0/src/build/java" />
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.4.0/src/demo/java" />
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.4.0/src/generated/java" />
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.4.0/src/legacy/java" />
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.4.0/src/main/core-api/java" />
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.4.0/src/main/core-impl/java" />
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.4.0/src/main/protocol-impl/java" />
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.4.0/src/main/user-api/java" />
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.4.0/src/main/user-impl/java" />
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.4.0/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../mysql-connector-j-8.4.0" recursive="false" />
+  </library>
+</component>
